@@ -1,7 +1,9 @@
 # Ransomware Attack Simulation in a Controlled Lab
 
 **Course:** Computer Networking 2 — Spring 2026
+
 **Author:** Ali Kashi Pazha (Student ID: 40121723)
+
 **Instructor:** Dr. Yaeghoobi
 
 A hands-on lab that simulates a ransomware infection inside an isolated virtual machine using the [ShinoLocker](https://shinolocker.com/) educational ransomware simulator, then forensically analyzes the attack using **Wireshark** (network layer) and **Process Monitor** (endpoint/file-system layer).
